@@ -14,7 +14,7 @@ LibDir=
 [eeschema/libraries]
 [schematic_editor]
 version=1
-PageLayoutDescrFile=D:/Google Drive/KiCad/CBR250RR/CBR250RRi_SCHEMATIC_LAYOUT_v2.kicad_wks
+PageLayoutDescrFile=
 PlotDirectoryName=./
 SubpartIdSeparator=0
 SubpartFirstId=65
@@ -24,7 +24,7 @@ LabSize=50
 ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
-PageLayoutDescrFile=D:/Google Drive/KiCad/CBR250RR/CBR250RRi_SCHEMATIC_LAYOUT_v2.kicad_wks
+PageLayoutDescrFile=
 LastNetListRead=CBR015-0038_MAP-CMP_SENSOR_PCB.net
 PadDrill=0.762
 PadDrillOvalY=0.762
