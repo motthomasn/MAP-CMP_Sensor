@@ -7,4 +7,5 @@ The board uses an NXP pressure sensor to measure the pressure pulses. The pressu
 
 Note: In a port throttled engine, the pressure signal may not be strong enough to produce a reliable signal throughout the engine speed/load range. In my application this is fine as the ECU I am working with (Life Racing F88R) allows the option to ignore the engine phase signal once 720deg synchronisation has been achieved. This means that the signal only has to be reliable during starting and idle.
 
+
 For further details on the CBR250RRi project, refer to the website https://www.cbr250rri.com/.
